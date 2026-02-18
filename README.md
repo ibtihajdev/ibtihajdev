@@ -12,7 +12,7 @@ Currently learning how to build real-world products, not just assignments.
 
 ### 🧰 Tech & Tools
 - Design: Figma, Photoshop, Illustrator  
-- Development: HTML, CSS, Java, Git & GitHub  
+- Development: React, Tailwind, Java, Git & GitHub  
 - Exploring: UI engineering, product thinking, web apps  
 
 ---
