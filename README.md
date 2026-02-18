@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hey there! 👋  
+I'm Ibtihaj — a Computer Science student and graphic designer.
 
-<!--
-**ibtihajdev/ibtihajdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build digital experiences using code and creativity.
 
-Here are some ideas to get you started:
+If an idea excites me, I turn it into a project and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is web development, UI/UX, and branding.  
+Currently learning how to build real-world products, not just assignments.
+
+---
+
+### 🧰 Tech & Tools
+- Design: Figma, Photoshop, Illustrator  
+- Development: HTML, CSS, Java, Git & GitHub  
+- Exploring: UI engineering, product thinking, web apps  
+
+---
+
+### 📌 Projects
+You’ll find projects around:
+- web design & UI concepts  
+- development practice builds  
+- branding & visual identity  
+- experiments while learning  
+
+More coming as I grow.
+
+---
+
+### 🚧 Currently
+- learning development deeply  
+- building portfolio projects  
+- improving problem-solving  
+- preparing for real-world tech work  
+
+---
+
+### 🤝 Open to
+- collaboration  
+- beginner open-source  
+- design + dev projects  
+- startup ideas  
+
+---
+
+### 🌍 Connect
+- GitHub: https://github.com/ibtihajdev  
+- Portfolio: coming soon  
+- LinkedIn: coming soon  
+
+---
+
+### ⚡ Fun side
+I enjoy design, speedcubing, learning new tools, and building things from scratch.
