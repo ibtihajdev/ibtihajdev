@@ -1,8 +1,11 @@
 ## Hey there! 👋  
 I'm Ibtihaj — a Computer Science student and graphic designer.
 I design and build digital experiences using code and creativity.
+
 If an idea excites me, I turn it into a project and ship it.
+
 My focus is web development, UI/UX, and branding.  
+
 Currently learning how to build real-world products, not just assignments.
 
 ---
