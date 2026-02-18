@@ -1,4 +1,4 @@
-#**Hi, I’m Ibtihaj**👋
+## **HI! I am Ibtihaj**👋
 
 Computer Science student & graphic designer building digital experiences with code and creativity.
 
